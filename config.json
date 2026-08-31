@@ -1,0 +1,29 @@
+{
+    "channels": {
+        "welcome": null,
+        "verification": null,
+        "introductions": null,
+        "animals": null,
+        "mod_logs": null,
+        "tickets": null,
+        "rules": null,
+        "announcements": null,
+        "bot_commands": []
+    },
+    "roles": {
+        "verified": null,
+        "unverified": null,
+        "starter": null,
+        "moderators": []
+    },
+    "moderation": {
+        "warning_reset_hours": 12,
+        "scan_all_channels": true,
+        "ignored_channels": [],
+        "ignored_roles": [],
+        "max_warnings": 3
+    },
+    "animals": {
+        "interval_minutes": 30
+    }
+}
